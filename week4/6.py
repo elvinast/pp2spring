@@ -11,6 +11,7 @@ for i in sInput:
 def checking(x):
     return(-x[0], x[1])  
 
+d[i].
 
 for key, value in d.items():
 	f.append((value, key))
